@@ -4,11 +4,11 @@
 
     
   <url>
-    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-channel-error-prob/</loc>
-    <lastmod>2017-03-08T02:11:55.519Z</lastmod>
+    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-channel-reliability-estimation/</loc>
+    <lastmod>2017-03-09T14:33:33.550Z</lastmod>
     <data>
         <display>
-        <title>Polar Code（4）编码之信道错误概率</title>
+        <title>Polar Code（4）编码之极化信道可靠性估计</title>
         <pubTime>2017-03-07T14:16:07.000Z</pubTime>
         
         <tag>Polar Code</tag>
@@ -22,7 +22,7 @@
     
   <url>
     <loc>https://marshallcomm.github.io/2017/03/05/polar-code-3-encoding-example/</loc>
-    <lastmod>2017-03-07T01:50:06.197Z</lastmod>
+    <lastmod>2017-03-09T14:30:41.811Z</lastmod>
     <data>
         <display>
         <title>Polar Code（3）编码实例</title>
@@ -37,11 +37,9 @@
     </url>
 
     
-    
-    
   <url>
     <loc>https://marshallcomm.github.io/2017/03/04/polar-code-2-encoding-principle/</loc>
-    <lastmod>2017-03-06T05:47:37.334Z</lastmod>
+    <lastmod>2017-03-09T14:14:15.780Z</lastmod>
     <data>
         <display>
         <title>Polar Code（2）编码原理</title>
@@ -55,6 +53,8 @@
     </data>
     </url>
 
+    
+    
     
   <url>
     <loc>https://marshallcomm.github.io/2017/03/01/polar-code-1-summary/</loc>
