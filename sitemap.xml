@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
+    
+    <lastmod>2017-03-13T08:33:52.327Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://marshallcomm.github.io/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
     
     <lastmod>2017-03-13T02:32:00.246Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://marshallcomm.github.io/2017/03/04/polar-code-2-encoding-principle/</loc>
     
     <lastmod>2017-03-11T01:30:39.585Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
-    
-    <lastmod>2017-03-09T14:33:33.550Z</lastmod>
     
   </url>
   
