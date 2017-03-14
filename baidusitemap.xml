@@ -5,11 +5,28 @@
     
   <url>
     <loc>https://marshallcomm.github.io/2017/03/13/polar-code-6-sc-decoder/</loc>
-    <lastmod>2017-03-13T15:03:12.514Z</lastmod>
+    <lastmod>2017-03-14T00:29:29.578Z</lastmod>
     <data>
         <display>
         <title>Polar Code（6）SC译码算法</title>
         <pubTime>2017-03-13T14:23:42.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marshallcomm.github.io/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
+    <lastmod>2017-03-14T00:29:05.621Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（5）编码之信道转移概率</title>
+        <pubTime>2017-03-12T13:31:26.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
@@ -27,23 +44,6 @@
         <display>
         <title>Polar Code（4）编码之极化信道可靠性估计</title>
         <pubTime>2017-03-07T14:16:07.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
-    <lastmod>2017-03-13T02:32:00.246Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（5）编码之信道转移概率</title>
-        <pubTime>2017-03-12T13:31:26.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
