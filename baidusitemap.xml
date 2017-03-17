@@ -4,6 +4,40 @@
 
     
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    <lastmod>2017-03-17T10:52:50.670Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（8）高斯近似</title>
+        <pubTime>2017-03-17T09:25:03.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marshallcomm.github.io/2017/03/15/polar-code-7-scl-decoder/</loc>
+    <lastmod>2017-03-17T09:09:56.141Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（7）SCL译码算法</title>
+        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://marshallcomm.github.io/2017/03/01/hello-world/</loc>
     <lastmod>2017-03-16T01:02:58.201Z</lastmod>
     <data>
@@ -25,23 +59,6 @@
         <display>
         <title>Polar Code（6）SC译码算法</title>
         <pubTime>2017-03-13T14:23:42.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/15/polar-code-7-scl-decoder/</loc>
-    <lastmod>2017-03-15T15:10:27.451Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（7）SCL译码算法</title>
-        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
