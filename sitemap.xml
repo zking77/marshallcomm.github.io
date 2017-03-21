@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/21/polar-code-10-rcpp/</loc>
+    
+    <lastmod>2017-03-21T11:05:44.561Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://marshallcomm.github.io/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    
+    <lastmod>2017-03-20T00:19:31.768Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://marshallcomm.github.io/2017/03/18/polar-code-9-ca-scl-decoder/</loc>
     
     <lastmod>2017-03-18T12:45:09.210Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://marshallcomm.github.io/2017/03/15/polar-code-7-scl-decoder/</loc>
     
     <lastmod>2017-03-18T07:16:47.888Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/17/polar-code-8-gaussian-approximation/</loc>
-    
-    <lastmod>2017-03-18T01:03:34.146Z</lastmod>
     
   </url>
   
