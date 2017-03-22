@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
+    
+    <lastmod>2017-03-22T09:26:44.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://marshallcomm.github.io/2017/03/01/polar-code-1-summary/</loc>
+    
+    <lastmod>2017-03-21T11:30:21.545Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://marshallcomm.github.io/2017/03/21/polar-code-10-rcpp/</loc>
     
     <lastmod>2017-03-21T11:05:44.561Z</lastmod>
@@ -68,13 +82,6 @@
     <loc>https://marshallcomm.github.io/2017/03/05/polar-code-3-encoding-example/</loc>
     
     <lastmod>2017-03-09T14:30:41.811Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/01/polar-code-1-summary/</loc>
-    
-    <lastmod>2017-03-05T14:59:52.179Z</lastmod>
     
   </url>
   
