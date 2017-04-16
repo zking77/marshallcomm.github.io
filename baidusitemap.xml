@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/18/polar-code-9-ca-scl-decoder/</loc>
+    <lastmod>2017-04-16T13:05:18.572Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（9）CA-SCL译码算法</title>
+        <pubTime>2017-03-18T12:09:48.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marshallcomm.github.io/2017/03/15/polar-code-7-scl-decoder/</loc>
+    <lastmod>2017-04-16T13:05:02.824Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（7）SCL译码算法</title>
+        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://marshallcomm.github.io/2017/04/09/Polar-Code-12-BDMC-Symmetric-Capacity/</loc>
     <lastmod>2017-04-12T13:31:38.022Z</lastmod>
     <data>
@@ -115,52 +155,12 @@
 
     
   <url>
-    <loc>https://marshallcomm.github.io/2017/03/18/polar-code-9-ca-scl-decoder/</loc>
-    <lastmod>2017-03-31T11:14:07.239Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（9）CA-SCL译码算法</title>
-        <pubTime>2017-03-18T12:09:48.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://marshallcomm.github.io/2017/03/17/polar-code-8-gaussian-approximation/</loc>
     <lastmod>2017-03-31T11:13:59.263Z</lastmod>
     <data>
         <display>
         <title>Polar Code（8）高斯近似</title>
         <pubTime>2017-03-17T09:25:03.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/15/polar-code-7-scl-decoder/</loc>
-    <lastmod>2017-03-31T11:13:51.111Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（7）SCL译码算法</title>
-        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
@@ -294,6 +294,5 @@
     </data>
     </url>
 
-    
     
 </urlset>
