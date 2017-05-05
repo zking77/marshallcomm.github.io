@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
+    <lastmod>2017-05-05T13:34:01.940Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（5）编码之信道转移概率</title>
+        <pubTime>2017-03-12T13:31:26.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://marshallcomm.github.io/2017/05/04/Polar-Code-13-channel-polarization/</loc>
     <lastmod>2017-05-05T03:42:10.330Z</lastmod>
     <data>
@@ -30,26 +50,6 @@
         <display>
         <title>Polar Code（12）B-DMC对称容量</title>
         <pubTime>2017-04-09T12:15:27.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
-    <lastmod>2017-05-04T00:46:16.721Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（5）编码之信道转移概率</title>
-        <pubTime>2017-03-12T13:31:26.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
