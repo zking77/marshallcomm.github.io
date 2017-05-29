@@ -4,14 +4,16 @@
 
     
   <url>
-    <loc>https://marshallcomm.github.io/2017/05/19/polar-code-15-3gpp-ran1-89/</loc>
-    <lastmod>2017-05-29T02:33:25.557Z</lastmod>
+    <loc>https://marshallcomm.github.io/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
+    <lastmod>2017-05-29T02:37:52.066Z</lastmod>
     <data>
         <display>
-        <title>Polar Code（15）3GPP RAN1#89</title>
-        <pubTime>2017-05-19T01:53:07.000Z</pubTime>
+        <title>Polar Code（11）3GPP标准化进展</title>
+        <pubTime>2017-03-22T08:46:48.000Z</pubTime>
         
         <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
          
          
            
@@ -25,13 +27,37 @@
     
   <url>
     <loc>https://marshallcomm.github.io/2017/05/15/polar-code-14-3gpp-ran1-88b/</loc>
-    <lastmod>2017-05-29T01:49:50.574Z</lastmod>
+    <lastmod>2017-05-29T02:37:44.104Z</lastmod>
     <data>
         <display>
         <title>Polar Code（14）3GPP RAN1#88bis</title>
         <pubTime>2017-05-15T01:25:33.000Z</pubTime>
         
         <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://marshallcomm.github.io/2017/05/19/polar-code-15-3gpp-ran1-89/</loc>
+    <lastmod>2017-05-29T02:37:04.649Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（15）3GPP RAN1#89</title>
+        <pubTime>2017-05-19T01:53:07.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
          
          
            
@@ -188,26 +214,6 @@
            
              
               <breadCrumb title="随笔一记" url="https://marshallcomm.github.io/categories/%E9%9A%8F%E7%AC%94%E4%B8%80%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
-    <lastmod>2017-03-31T11:14:22.260Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（11）3GPP标准化进展</title>
-        <pubTime>2017-03-22T08:46:48.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
           
         </display>
     </data>
