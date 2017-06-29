@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/05/polar-code-3-encoding-example/</loc>
+    
+    <lastmod>2017-06-29T07:44:46.172Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://marshallcomm.github.io/2017/05/19/polar-code-15-3gpp-ran1-89/</loc>
     
     <lastmod>2017-06-23T00:47:19.980Z</lastmod>
@@ -103,13 +110,6 @@
     <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
     
     <lastmod>2017-03-31T11:13:30.680Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/05/polar-code-3-encoding-example/</loc>
-    
-    <lastmod>2017-03-31T11:12:48.331Z</lastmod>
     
   </url>
   
