@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
+    <lastmod>2017-08-02T02:36:43.772Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（4）编码之极化信道可靠性估计</title>
+        <pubTime>2017-03-07T14:16:07.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://marshallcomm.github.io/2017/07/27/change-comment-system/</loc>
     <lastmod>2017-07-27T02:13:16.774Z</lastmod>
     <data>
@@ -326,26 +346,6 @@
         <display>
         <title>Polar Code（6）SC译码算法</title>
         <pubTime>2017-03-13T14:23:42.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="研究笔记" url="https://marshallcomm.github.io/categories/%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://marshallcomm.github.io/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
-    <lastmod>2017-03-31T11:13:30.680Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（4）编码之极化信道可靠性估计</title>
-        <pubTime>2017-03-07T14:16:07.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
