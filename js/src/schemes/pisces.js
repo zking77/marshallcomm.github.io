@@ -1,3 +1,3 @@
-// build time:Fri Aug 04 2017 19:46:47 GMT+0800 (中国标准时间)
+// build time:Mon Aug 21 2017 20:13:15 GMT+0800 (中国标准时间)
 $(document).ready(function(){var n=$(".header-inner");var r=$("#sidebar");var e=function(){return n.height()+CONFIG.sidebar.offset};var i=function(n){return r.css({"margin-top":n})};var a=window.matchMedia("(min-width: 991px)");i(e()).show();a.addListener(function(n){if(n.matches){i(e())}})});
 //rebuild by neat 
