@@ -5,11 +5,31 @@
     
   <url>
     <loc>http://marshallcomm.cn/2017/08/24/polar-code-18-select-bitchannel/</loc>
-    <lastmod>2017-08-25T07:43:24.504Z</lastmod>
+    <lastmod>2017-08-26T08:40:01.892Z</lastmod>
     <data>
         <display>
         <title>Polar Code（18）比特信道的选择</title>
         <pubTime>2017-08-24T08:39:07.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/08/26/polar-code-19-design-snr/</loc>
+    <lastmod>2017-08-26T08:33:37.136Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（19）当我们谈论design-snr时我们在谈论什么</title>
+        <pubTime>2017-08-26T08:26:26.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
