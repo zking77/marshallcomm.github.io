@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
+    <lastmod>2017-09-12T02:53:02.471Z</lastmod>
+    <data>
+        <display>
+        <title>5G物理层协议V100-Index</title>
+        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-procedure-control/</loc>
     <lastmod>2017-09-12T02:48:22.181Z</lastmod>
     <data>
@@ -154,30 +178,6 @@
         <display>
         <title>NR物理层概述</title>
         <pubTime>2017-09-08T06:40:21.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
-    <lastmod>2017-09-12T02:40:45.370Z</lastmod>
-    <data>
-        <display>
-        <title>5G物理层协议V100-Index</title>
-        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
         
         <tag>2017-09</tag>
          
