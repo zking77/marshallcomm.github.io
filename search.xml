@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[Polar Code（23）3GPP RAN1#90bis]]></title>
+      <url>%2F2017%2F10%2F20%2Fpolar-code-23-3gpp-ran1-90b%2F</url>
+      <content type="text"><![CDATA[前言2017年10月9~13日，3GPP RAN1#90bis会议在布拉格召开。本次会议对Polar coding的遗留问题继续进行讨论。Remaining issues of code construction关于code construction只剩下3个议题悬而未决：冻结比特的赋值问题，加扰方式以及CRC masking。关于CRC masking的比特数，本次会议达成如下结论：RNTI隐含在PDCCH的最后${ {N}_{RNTI}}$个CRC bits上，${ {N}_{RNTI}}$就是RNTI的比特数。工作假设认为${ {N}_{RNTI}}=16$。RAN1通知RAN2，PDCCH信道编码对RNTI的承载能力可达到17 bits，也可能是21 bits。RAN1要求RAN2在确定RNTI长度时通知RAN1。Remaining details of DL channel interleaver3GPP RAN1 adhoc#3会议中信道交织一节提到，是否进行下行信道交织。本次会议明确结论：不采用下行信道交织。Other对于较大的上行控制信息（UCI）要进行分段操作。本次会议达成如下结论：UCI要分为相同大小的两段（如需要，则在第一个分段的开始处插入零）。是否进行分段的阈值根据K和R确定，例如K&gt;=threshold且R&lt;=threshold。threshold的值待定。先对第一个分段进行CRC添加，然后使用与第一个分段相同的CRC多项式对第二个段进行CRC添加。（也就是两个分段采用相同的CRC多项式。）参考资料[1] Draft_Minutes_report_RAN1#90b_v010]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Polar Code（22）3GPP RAN1 adhoc#3]]></title>
       <url>%2F2017%2F10%2F20%2Fpolar-code-22-3gpp-ran1-adhoc3%2F</url>
       <content type="text"><![CDATA[前言Polar coding大部分内容已在3GPP RAN1#90会议中确定下来。2017年9月18~21日，3GPP RAN1 adhoc#3会议在日本名古屋召开，对Polar coding遗留的问题继续进行讨论。Downlink code construction本次会议达成如下结论：确认了38.212v1.0.0协议中关于CRC添加和交织器的工作假设。目前协议假设下行控制信息（DCI）载荷最大为200 bits，即Kmax=200。日后正式确定下来的Kmax值应小于200。Uplink code construction对于上行控制信道编码，本次会议达成如下结论：确认了CRC bits添加在信息比特末位的工作假设。确定了上行控制信道编码CRC的长度，${ {L}_{CRC}}\text{=}11$，生成多项式为${ {D}^{11}}+{ {D}^{10}}+{ {D}^{9}}+{ {D}^{5}}+1$。Remaining details of rate matching关于速率匹配，本次会议确认了上次会议的工作假设：即下图所示参数设置：母码长度N由$\left( { {N}_{M}},{ {N}_{R}},{ {N}_{\max }} \right)$的最小值确定。Remaining details of channel interleaversdownlink关于是否采用下行比特级信道交织，本次会议有工作假设，如果采用信道交织，那么比特信道交织的跨度等于1个CCE对应的编码比特数。高CCE聚合等级下，有没有必要进行比特信道交织有待进一步讨论。uplink3GPP RAN1#90会议Channel interleaver的部分提到工作假设，上行链路信道交织采用Triangular interleaver，本次会议确认了这一工作假设。参考资料[1] Final_Minutes_report_RAN1#AH_NR3_v100]]></content>
