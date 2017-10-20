@@ -4,6 +4,52 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/10/20/polar-code-21-3gpp-ran1-90/</loc>
+    <lastmod>2017-10-20T03:36:26.956Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（21）3GPP RAN1#90</title>
+        <pubTime>2017-10-20T01:01:08.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
+    <lastmod>2017-10-20T01:33:39.559Z</lastmod>
+    <data>
+        <display>
+        <title>5G物理层协议V100</title>
+        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/09/19/polar-code-20-beta-expansion/</loc>
     <lastmod>2017-09-19T12:02:57.524Z</lastmod>
     <data>
@@ -17,30 +63,6 @@
            
              
               <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
-    <lastmod>2017-09-12T08:17:51.029Z</lastmod>
-    <data>
-        <display>
-        <title>5G物理层协议V100-Index</title>
-        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
           
         </display>
     </data>
