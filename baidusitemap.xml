@@ -4,6 +4,54 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation/</loc>
+    <lastmod>2017-10-23T07:34:19.775Z</lastmod>
+    <data>
+        <display>
+        <title>NR物理信道与调制</title>
+        <pubTime>2017-09-09T07:37:09.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation/</loc>
+    <lastmod>2017-10-23T07:30:16.916Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制v1.1.0</title>
+        <pubTime>2017-10-23T06:05:43.000Z</pubTime>
+        
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+        <tag>2017-10</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/10/20/polar-code-23-3gpp-ran1-90b/</loc>
     <lastmod>2017-10-20T11:57:29.118Z</lastmod>
     <data>
@@ -192,30 +240,6 @@
         <display>
         <title>NR物理信道与调制-上行链路</title>
         <pubTime>2017-09-09T09:16:48.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation/</loc>
-    <lastmod>2017-09-12T02:47:19.575Z</lastmod>
-    <data>
-        <display>
-        <title>NR物理信道与调制</title>
-        <pubTime>2017-09-09T07:37:09.000Z</pubTime>
         
         <tag>2017-09</tag>
          
