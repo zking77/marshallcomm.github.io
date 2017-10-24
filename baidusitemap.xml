@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/03/21/polar-code-10-rcpp/</loc>
+    <lastmod>2017-10-24T05:30:21.273Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（10）速率适配的凿孔极化码</title>
+        <pubTime>2017-03-21T10:12:21.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
     <lastmod>2017-10-24T00:55:41.605Z</lastmod>
     <data>
@@ -551,26 +571,6 @@
            
              
               <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/21/polar-code-10-rcpp/</loc>
-    <lastmod>2017-08-04T09:04:03.396Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（10）速率适配的凿孔极化码</title>
-        <pubTime>2017-03-21T10:12:21.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
           
         </display>
     </data>
