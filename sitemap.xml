@@ -2,16 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
+    
+    <lastmod>2017-10-24T00:55:41.605Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-procedure-control/</loc>
+    
+    <lastmod>2017-10-24T00:55:33.268Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/10/nr-v100-l1-multiplexing-coding/</loc>
+    
+    <lastmod>2017-10-24T00:55:22.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-dl/</loc>
+    
+    <lastmod>2017-10-24T00:55:12.782Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-ul/</loc>
+    
+    <lastmod>2017-10-24T00:54:59.441Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation/</loc>
     
-    <lastmod>2017-10-23T07:34:19.775Z</lastmod>
+    <lastmod>2017-10-24T00:54:42.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-general-description/</loc>
+    
+    <lastmod>2017-10-24T00:54:05.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-l1-service/</loc>
+    
+    <lastmod>2017-10-24T00:53:51.469Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation/</loc>
     
-    <lastmod>2017-10-23T07:30:16.916Z</lastmod>
+    <lastmod>2017-10-24T00:53:09.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
+    
+    <lastmod>2017-10-24T00:49:30.482Z</lastmod>
     
   </url>
   
@@ -37,58 +93,9 @@
   </url>
   
   <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
-    
-    <lastmod>2017-10-20T01:33:39.559Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://marshallcomm.cn/2017/09/19/polar-code-20-beta-expansion/</loc>
     
     <lastmod>2017-09-19T12:02:57.524Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-procedure-control/</loc>
-    
-    <lastmod>2017-09-12T02:48:22.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/10/nr-v100-l1-multiplexing-coding/</loc>
-    
-    <lastmod>2017-09-12T02:48:06.878Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-dl/</loc>
-    
-    <lastmod>2017-09-12T02:47:48.643Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-ul/</loc>
-    
-    <lastmod>2017-09-12T02:47:33.923Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-l1-service/</loc>
-    
-    <lastmod>2017-09-12T02:46:32.525Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-general-description/</loc>
-    
-    <lastmod>2017-09-12T02:44:40.036Z</lastmod>
     
   </url>
   

@@ -4,11 +4,131 @@
 
     
   <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation/</loc>
-    <lastmod>2017-10-23T07:34:19.775Z</lastmod>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
+    <lastmod>2017-10-24T00:55:41.605Z</lastmod>
     <data>
         <display>
-        <title>NR物理信道与调制</title>
+        <title>5G-NR物理层协议v1.0.0</title>
+        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-procedure-control/</loc>
+    <lastmod>2017-10-24T00:55:33.268Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理层过程（控制）v1.0.0</title>
+        <pubTime>2017-09-11T01:43:15.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/10/nr-v100-l1-multiplexing-coding/</loc>
+    <lastmod>2017-10-24T00:55:22.831Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR复用与信道编码v1.0.0</title>
+        <pubTime>2017-09-10T14:23:31.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-dl/</loc>
+    <lastmod>2017-10-24T00:55:12.782Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制-下行链路v1.0.0</title>
+        <pubTime>2017-09-09T11:28:07.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-ul/</loc>
+    <lastmod>2017-10-24T00:54:59.441Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制-上行链路v1.0.0</title>
+        <pubTime>2017-09-09T09:16:48.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation/</loc>
+    <lastmod>2017-10-24T00:54:42.932Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制v1.0.0</title>
         <pubTime>2017-09-09T07:37:09.000Z</pubTime>
         
         <tag>2017-09</tag>
@@ -28,12 +148,84 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-general-description/</loc>
+    <lastmod>2017-10-24T00:54:05.937Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理层概述v1.0.0</title>
+        <pubTime>2017-09-08T06:40:21.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-l1-service/</loc>
+    <lastmod>2017-10-24T00:53:51.469Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理层提供的服务v1.0.0</title>
+        <pubTime>2017-09-08T07:06:40.000Z</pubTime>
+        
+        <tag>2017-09</tag>
+         
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation/</loc>
-    <lastmod>2017-10-23T07:30:16.916Z</lastmod>
+    <lastmod>2017-10-24T00:53:09.440Z</lastmod>
     <data>
         <display>
         <title>5G-NR物理信道与调制v1.1.0</title>
         <pubTime>2017-10-23T06:05:43.000Z</pubTime>
+        
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+        <tag>2017-10</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
+    <lastmod>2017-10-24T00:49:30.482Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制-上行链路v1.1.0</title>
+        <pubTime>2017-10-23T10:30:09.000Z</pubTime>
         
         <tag>5G-NR</tag>
          
@@ -118,30 +310,6 @@
 
     
   <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-index/</loc>
-    <lastmod>2017-10-20T01:33:39.559Z</lastmod>
-    <data>
-        <display>
-        <title>5G物理层协议V100</title>
-        <pubTime>2017-09-11T02:19:28.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://marshallcomm.cn/2017/09/19/polar-code-20-beta-expansion/</loc>
     <lastmod>2017-09-19T12:02:57.524Z</lastmod>
     <data>
@@ -155,150 +323,6 @@
            
              
               <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/11/nr-v100-l1-procedure-control/</loc>
-    <lastmod>2017-09-12T02:48:22.181Z</lastmod>
-    <data>
-        <display>
-        <title>5G-NR物理层过程（控制）</title>
-        <pubTime>2017-09-11T01:43:15.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/10/nr-v100-l1-multiplexing-coding/</loc>
-    <lastmod>2017-09-12T02:48:06.878Z</lastmod>
-    <data>
-        <display>
-        <title>NR复用与信道编码</title>
-        <pubTime>2017-09-10T14:23:31.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-dl/</loc>
-    <lastmod>2017-09-12T02:47:48.643Z</lastmod>
-    <data>
-        <display>
-        <title>NR物理信道与调制-下行链路</title>
-        <pubTime>2017-09-09T11:28:07.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/09/nr-v100-l1-channel-modulation-ul/</loc>
-    <lastmod>2017-09-12T02:47:33.923Z</lastmod>
-    <data>
-        <display>
-        <title>NR物理信道与调制-上行链路</title>
-        <pubTime>2017-09-09T09:16:48.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-l1-service/</loc>
-    <lastmod>2017-09-12T02:46:32.525Z</lastmod>
-    <data>
-        <display>
-        <title>NR物理层提供的服务</title>
-        <pubTime>2017-09-08T07:06:40.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/09/08/nr-v100-general-description/</loc>
-    <lastmod>2017-09-12T02:44:40.036Z</lastmod>
-    <data>
-        <display>
-        <title>NR物理层概述</title>
-        <pubTime>2017-09-08T06:40:21.000Z</pubTime>
-        
-        <tag>2017-09</tag>
-         
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
           
         </display>
     </data>
