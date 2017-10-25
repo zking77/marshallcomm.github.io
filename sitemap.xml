@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://marshallcomm.cn/2017/04/09/Polar-Code-12-BDMC-Symmetric-Capacity/</loc>
+    
+    <lastmod>2017-10-25T02:14:38.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
+    
+    <lastmod>2017-10-24T11:39:13.854Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://marshallcomm.cn/2017/03/21/polar-code-10-rcpp/</loc>
     
     <lastmod>2017-10-24T05:30:21.273Z</lastmod>
@@ -68,13 +82,6 @@
     <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation/</loc>
     
     <lastmod>2017-10-24T00:53:09.440Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
-    
-    <lastmod>2017-10-24T00:49:30.482Z</lastmod>
     
   </url>
   
@@ -166,13 +173,6 @@
     <loc>http://marshallcomm.cn/2017/05/04/Polar-Code-13-channel-polarization/</loc>
     
     <lastmod>2017-08-04T09:05:49.132Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/04/09/Polar-Code-12-BDMC-Symmetric-Capacity/</loc>
-    
-    <lastmod>2017-08-04T09:05:39.461Z</lastmod>
     
   </url>
   

@@ -4,6 +4,50 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/04/09/Polar-Code-12-BDMC-Symmetric-Capacity/</loc>
+    <lastmod>2017-10-25T02:14:38.869Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（12）B-DMC对称容量</title>
+        <pubTime>2017-04-09T12:15:27.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
+    <lastmod>2017-10-24T11:39:13.854Z</lastmod>
+    <data>
+        <display>
+        <title>5G-NR物理信道与调制-上行链路v1.1.0</title>
+        <pubTime>2017-10-23T10:30:09.000Z</pubTime>
+        
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+        <tag>2017-10</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/03/21/polar-code-10-rcpp/</loc>
     <lastmod>2017-10-24T05:30:21.273Z</lastmod>
     <data>
@@ -222,30 +266,6 @@
         <display>
         <title>5G-NR物理信道与调制v1.1.0</title>
         <pubTime>2017-10-23T06:05:43.000Z</pubTime>
-        
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-        <tag>2017-10</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/10/23/nr-v110-l1-channel-modulation-ul/</loc>
-    <lastmod>2017-10-24T00:49:30.482Z</lastmod>
-    <data>
-        <display>
-        <title>5G-NR物理信道与调制-上行链路v1.1.0</title>
-        <pubTime>2017-10-23T10:30:09.000Z</pubTime>
         
         <tag>5G-NR</tag>
          
@@ -522,26 +542,6 @@
         <display>
         <title>Polar Code（13）信道极化</title>
         <pubTime>2017-05-04T08:28:28.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/04/09/Polar-Code-12-BDMC-Symmetric-Capacity/</loc>
-    <lastmod>2017-08-04T09:05:39.461Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（12）B-DMC对称容量</title>
-        <pubTime>2017-04-09T12:15:27.000Z</pubTime>
         
         <tag>Polar Code</tag>
          
