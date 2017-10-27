@@ -4,6 +4,170 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
+    <lastmod>2017-10-27T11:58:50.149Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（4）编码之极化信道可靠性估计</title>
+        <pubTime>2017-03-07T14:16:07.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
+    <lastmod>2017-10-27T11:54:25.641Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（11）3GPP标准化进展</title>
+        <pubTime>2017-03-22T08:46:48.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    <lastmod>2017-10-27T11:53:56.916Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（8）高斯近似</title>
+        <pubTime>2017-03-17T09:25:03.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/15/polar-code-7-scl-decoder/</loc>
+    <lastmod>2017-10-27T11:53:20.129Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（7）SCL译码算法</title>
+        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
+    <lastmod>2017-10-27T11:53:02.882Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（6）SC译码算法</title>
+        <pubTime>2017-03-13T14:23:42.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/05/polar-code-3-encoding-example/</loc>
+    <lastmod>2017-10-27T11:52:02.123Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（3）编码实例</title>
+        <pubTime>2017-03-05T12:51:54.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/04/polar-code-2-encoding-principle/</loc>
+    <lastmod>2017-10-27T11:51:29.772Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（2）编码原理</title>
+        <pubTime>2017-03-04T05:07:05.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/07/answer-polar-code-def-error-prob/</loc>
+    <lastmod>2017-10-27T11:45:30.792Z</lastmod>
+    <data>
+        <display>
+        <title>Answer-Polar Code-定义错误概率</title>
+        <pubTime>2017-03-07T14:17:07.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+        <tag>answer</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/10/20/polar-code-21-3gpp-ran1-90/</loc>
     <lastmod>2017-10-26T06:57:33.361Z</lastmod>
     <data>
@@ -474,26 +638,6 @@
 
     
   <url>
-    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
-    <lastmod>2017-08-04T09:09:19.436Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（8）高斯近似</title>
-        <pubTime>2017-03-17T09:25:03.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://marshallcomm.cn/2017/07/01/polar-code-16-3gpp-ran1-adhoc2/</loc>
     <lastmod>2017-08-04T09:06:29.919Z</lastmod>
     <data>
@@ -580,28 +724,6 @@
 
     
   <url>
-    <loc>http://marshallcomm.cn/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
-    <lastmod>2017-08-04T09:05:09.769Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（11）3GPP标准化进展</title>
-        <pubTime>2017-03-22T08:46:48.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://marshallcomm.cn/2017/03/18/polar-code-9-ca-scl-decoder/</loc>
     <lastmod>2017-08-04T09:03:52.810Z</lastmod>
     <data>
@@ -622,112 +744,12 @@
 
     
   <url>
-    <loc>http://marshallcomm.cn/2017/03/15/polar-code-7-scl-decoder/</loc>
-    <lastmod>2017-08-04T09:03:21.203Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（7）SCL译码算法</title>
-        <pubTime>2017-03-15T12:40:17.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
-    <lastmod>2017-08-04T09:03:13.069Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（6）SC译码算法</title>
-        <pubTime>2017-03-13T14:23:42.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://marshallcomm.cn/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
     <lastmod>2017-08-04T09:03:05.006Z</lastmod>
     <data>
         <display>
         <title>Polar Code（5）编码之信道转移概率</title>
         <pubTime>2017-03-12T13:31:26.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
-    <lastmod>2017-08-04T09:02:57.268Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（4）编码之极化信道可靠性估计</title>
-        <pubTime>2017-03-07T14:16:07.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/05/polar-code-3-encoding-example/</loc>
-    <lastmod>2017-08-04T09:02:50.312Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（3）编码实例</title>
-        <pubTime>2017-03-05T12:51:54.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/04/polar-code-2-encoding-principle/</loc>
-    <lastmod>2017-08-04T09:02:42.583Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（2）编码原理</title>
-        <pubTime>2017-03-04T05:07:05.000Z</pubTime>
         
         <tag>Polar Code</tag>
          

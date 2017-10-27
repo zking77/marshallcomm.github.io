@@ -2,6 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
+    
+    <lastmod>2017-10-27T11:58:50.149Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
+    
+    <lastmod>2017-10-27T11:54:25.641Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    
+    <lastmod>2017-10-27T11:53:56.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/15/polar-code-7-scl-decoder/</loc>
+    
+    <lastmod>2017-10-27T11:53:20.129Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
+    
+    <lastmod>2017-10-27T11:53:02.882Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/05/polar-code-3-encoding-example/</loc>
+    
+    <lastmod>2017-10-27T11:52:02.123Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/04/polar-code-2-encoding-principle/</loc>
+    
+    <lastmod>2017-10-27T11:51:29.772Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marshallcomm.cn/2017/03/07/answer-polar-code-def-error-prob/</loc>
+    
+    <lastmod>2017-10-27T11:45:30.792Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://marshallcomm.cn/2017/10/20/polar-code-21-3gpp-ran1-90/</loc>
     
     <lastmod>2017-10-26T06:57:33.361Z</lastmod>
@@ -149,13 +205,6 @@
   </url>
   
   <url>
-    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
-    
-    <lastmod>2017-08-04T09:09:19.436Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://marshallcomm.cn/2017/07/01/polar-code-16-3gpp-ran1-adhoc2/</loc>
     
     <lastmod>2017-08-04T09:06:29.919Z</lastmod>
@@ -184,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://marshallcomm.cn/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
-    
-    <lastmod>2017-08-04T09:05:09.769Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://marshallcomm.cn/2017/03/18/polar-code-9-ca-scl-decoder/</loc>
     
     <lastmod>2017-08-04T09:03:52.810Z</lastmod>
@@ -198,44 +240,9 @@
   </url>
   
   <url>
-    <loc>http://marshallcomm.cn/2017/03/15/polar-code-7-scl-decoder/</loc>
-    
-    <lastmod>2017-08-04T09:03:21.203Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
-    
-    <lastmod>2017-08-04T09:03:13.069Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://marshallcomm.cn/2017/03/12/polar-code-5-encoding-chan-trans-prob/</loc>
     
     <lastmod>2017-08-04T09:03:05.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
-    
-    <lastmod>2017-08-04T09:02:57.268Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/05/polar-code-3-encoding-example/</loc>
-    
-    <lastmod>2017-08-04T09:02:50.312Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/04/polar-code-2-encoding-principle/</loc>
-    
-    <lastmod>2017-08-04T09:02:42.583Z</lastmod>
     
   </url>
   
