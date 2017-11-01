@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    
+    <lastmod>2017-11-01T11:35:12.579Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
     
     <lastmod>2017-11-01T02:21:36.611Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://marshallcomm.cn/2017/03/22/polar-code-11-3gpp-standard-1/</loc>
     
     <lastmod>2017-10-27T11:54:25.641Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
-    
-    <lastmod>2017-10-27T11:53:56.916Z</lastmod>
     
   </url>
   

@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
+    <lastmod>2017-11-01T11:35:12.579Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（8）高斯近似</title>
+        <pubTime>2017-03-17T09:25:03.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/03/07/polar-code-4-encoding-chan-rel-est/</loc>
     <lastmod>2017-11-01T02:21:36.611Z</lastmod>
     <data>
@@ -39,26 +59,6 @@
            
              
               <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/17/polar-code-8-gaussian-approximation/</loc>
-    <lastmod>2017-10-27T11:53:56.916Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（8）高斯近似</title>
-        <pubTime>2017-03-17T09:25:03.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
           
         </display>
     </data>
