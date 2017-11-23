@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
+    <lastmod>2017-11-23T03:43:53.054Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（6）SC译码算法</title>
+        <pubTime>2017-03-13T14:23:42.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+         
+           
+             
+              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/03/15/polar-code-7-scl-decoder/</loc>
     <lastmod>2017-11-23T03:23:31.608Z</lastmod>
     <data>
@@ -163,26 +183,6 @@
            
              
               <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/03/13/polar-code-6-sc-decoder/</loc>
-    <lastmod>2017-10-27T11:53:02.882Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（6）SC译码算法</title>
-        <pubTime>2017-03-13T14:23:42.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-         
-           
-             
-              <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
           
         </display>
     </data>
