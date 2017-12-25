@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/10/20/polar-code-21-3gpp-ran1-90/</loc>
+    <lastmod>2017-12-25T05:17:42.060Z</lastmod>
+    <data>
+        <display>
+        <title>Polar Code（21）3GPP RAN1#90</title>
+        <pubTime>2017-10-20T01:01:08.000Z</pubTime>
+        
+        <tag>Polar Code</tag>
+         
+        <tag>3GPP</tag>
+         
+         
+           
+             
+              <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/03/21/polar-code-10-rcpp/</loc>
     <lastmod>2017-12-19T00:29:29.456Z</lastmod>
     <data>
@@ -123,28 +145,6 @@
            
              
               <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/10/20/polar-code-21-3gpp-ran1-90/</loc>
-    <lastmod>2017-11-17T10:23:03.136Z</lastmod>
-    <data>
-        <display>
-        <title>Polar Code（21）3GPP RAN1#90</title>
-        <pubTime>2017-10-20T01:01:08.000Z</pubTime>
-        
-        <tag>Polar Code</tag>
-         
-        <tag>3GPP</tag>
-         
-         
-           
-             
-              <breadCrumb title="3GPP_PolarCode" url="http://marshallcomm.cn/categories/3GPP-PolarCode/"/>
           
         </display>
     </data>
