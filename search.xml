@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[SSB与小区搜索]]></title>
+      <title><![CDATA[5G SSB与小区搜索]]></title>
       <url>%2F2017%2F12%2F29%2Fnr-v200-l1-ssb%2F</url>
       <content type="text"><![CDATA[前言在5G NR中，主同步信号（PSS）、辅同步信号（SSS）和PBCH共同构成一个SSB（SS/PBCH block），SSB在时域上共占用4个OFDM符号，频域共占用240个子载波（20个PRB）。本文分别介绍PSS、SSS、PBCH、SSB以及小区搜索。同步信号（SS）物理层小区ID1008个唯一的物理层小区ID根据如下公式确定N_{\text{ID}}^{\text{cell}}=3N_{\text{ID}}^{\text{(1)}}+N_{\text{ID}}^{\text{(2)}}其中$ N_{\text{ID}}^{\text{(1)}}\in \left\{ 0,1,…,335 \right\} $，$ N_{\text{ID}}^{\text{(2)}}\in \left\{ 0,1,2 \right\} $。主同步信号（PSS）序列生成PSS序列$ { {d}_{\text{PSS}}}(n) $根据如下公式生成\begin{align} \nonumber & { {d}_{\text{PSS}}}\left( n \right)=1-2x\left( m \right) \\ \nonumber & m=\left( n+43N_{\text{ID}}^{\text{(2)}} \right)\bmod 127 \\ \nonumber & 0\le n]]></content>
     </entry>
