@@ -4,8 +4,32 @@
 
     
   <url>
+    <loc>http://marshallcomm.cn/2017/12/29/nr-v200-l1-prach/</loc>
+    <lastmod>2017-12-30T02:29:49.294Z</lastmod>
+    <data>
+        <display>
+        <title>5G PRACH与随机接入</title>
+        <pubTime>2017-12-29T02:52:39.000Z</pubTime>
+        
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+        <tag>2017-12</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://marshallcomm.cn/2017/12/29/nr-v200-l1-ssb/</loc>
-    <lastmod>2017-12-29T02:44:15.508Z</lastmod>
+    <lastmod>2017-12-29T07:48:18.803Z</lastmod>
     <data>
         <display>
         <title>5G SSB与小区搜索</title>
