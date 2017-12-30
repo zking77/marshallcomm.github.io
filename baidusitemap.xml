@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://marshallcomm.cn/2017/12/29/nr-v200-l1-prach/</loc>
-    <lastmod>2017-12-30T02:29:49.294Z</lastmod>
+    <lastmod>2017-12-30T02:44:22.800Z</lastmod>
     <data>
         <display>
         <title>5G PRACH与随机接入</title>
@@ -29,11 +29,35 @@
     
   <url>
     <loc>http://marshallcomm.cn/2017/12/29/nr-v200-l1-ssb/</loc>
-    <lastmod>2017-12-29T07:48:18.803Z</lastmod>
+    <lastmod>2017-12-30T02:44:16.536Z</lastmod>
     <data>
         <display>
         <title>5G SSB与小区搜索</title>
         <pubTime>2017-12-29T01:21:26.000Z</pubTime>
+        
+        <tag>5G-NR</tag>
+         
+        <tag>3GPP</tag>
+         
+        <tag>2017-12</tag>
+         
+         
+           
+             
+              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://marshallcomm.cn/2017/12/17/nr-v200-l1-channel-modulation/</loc>
+    <lastmod>2017-12-30T02:44:05.102Z</lastmod>
+    <data>
+        <display>
+        <title>5G 帧结构、物理资源与物理信道</title>
+        <pubTime>2017-12-17T02:23:52.000Z</pubTime>
         
         <tag>5G-NR</tag>
          
@@ -107,30 +131,6 @@
            
              
               <breadCrumb title="Polar Code" url="http://marshallcomm.cn/categories/Polar-Code/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://marshallcomm.cn/2017/12/17/nr-v200-l1-channel-modulation/</loc>
-    <lastmod>2017-12-17T03:40:50.211Z</lastmod>
-    <data>
-        <display>
-        <title>5G-NR物理信道与调制v2.0.0</title>
-        <pubTime>2017-12-17T02:23:52.000Z</pubTime>
-        
-        <tag>5G-NR</tag>
-         
-        <tag>3GPP</tag>
-         
-        <tag>2017-12</tag>
-         
-         
-           
-             
-              <breadCrumb title="5G-NR" url="http://marshallcomm.cn/categories/5G-NR/"/>
           
         </display>
     </data>
